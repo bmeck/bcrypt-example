@@ -6,6 +6,9 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "dependencies": {
+    "bcrypt": "*"
+  },
   "repository": {
     "type": "git",
     "url": "git://github.com/bmeck/bcrypt-example.git"
